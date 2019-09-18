@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226623668400",
+    "firebase_url": "https://ravifurnitures-e6e1b.firebaseio.com",
+    "project_id": "ravifurnitures-e6e1b",
+    "storage_bucket": "ravifurnitures-e6e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226623668400:android:c9c64808c6e4323c507b75",
+        "android_client_info": {
+          "package_name": "com.ravifurnitures.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226623668400-2md3s4nk2idbt5su90ai6muimsbm1etc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravifurnitures.demoapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "226623668400-g33619he2a8gvd9f7kkkcorl2ll0tm9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehn-OzEfuqxWQrH2vdb2bt-cu2j0pj3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226623668400-g33619he2a8gvd9f7kkkcorl2ll0tm9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
